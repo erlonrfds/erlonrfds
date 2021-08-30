@@ -1,5 +1,3 @@
-### Fala aí 👋
-
 ## Me chamo Erlon França
 
  <div>
