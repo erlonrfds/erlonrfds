@@ -1,6 +1,6 @@
 ### Fala aí 👋
 
-## Oiii! Eu sou Erlon França
+## Me chamo Erlon França
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erlonrfds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
