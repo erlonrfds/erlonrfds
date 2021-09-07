@@ -10,6 +10,7 @@
   <img align="center" alt="Erlon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Erlon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="right" alt="Erlon-gif" src="https://i.picasion.com/pic91/db1c32ccf23540ae698afe677d7c7595.gif"/>
 </div>
   
   ##
